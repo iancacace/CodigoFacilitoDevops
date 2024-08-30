@@ -11,7 +11,6 @@ import React from "react";
             { day: "Friday", open: "10:00", close: "16:00" },
             { day: "Saturday", open: "9:00", close: "20:00" },
             { day: "Sunday", open: "9:00", close: "20:00" },
-
         ]
 
         // get the long day name and store it in a variable called today
